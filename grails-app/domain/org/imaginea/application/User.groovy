@@ -1,4 +1,4 @@
-package org.imaginea.domain
+package org.imaginea.application
 
 import java.time.Instant
 

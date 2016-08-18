@@ -1,4 +1,4 @@
-package org.imaginea.controller
+package org.imaginea.application
 
 import grails.test.mixin.TestFor
 import spock.lang.Specification

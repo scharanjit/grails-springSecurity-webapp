@@ -1,7 +1,7 @@
-package org.imaginea.domain
+package org.imaginea.application
 
 class Person {
-    
+
         static constraints = {
             middleName nullable: true
             city nullable: true

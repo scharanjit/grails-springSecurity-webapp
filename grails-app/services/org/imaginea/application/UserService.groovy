@@ -1,10 +1,9 @@
-package org.imaginea.service
+package org.imaginea.application
 
 import grails.transaction.Transactional
 import groovy.transform.InheritConstructors
 import org.mindrot.jbcrypt.BCrypt
 
-import org.imaginea.domain.*
 import java.time.Clock
 import java.time.Instant
 

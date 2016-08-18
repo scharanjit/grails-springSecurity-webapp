@@ -1,7 +1,5 @@
-package org.imaginea.controller
+package org.imaginea.application
 
-
-import org.imaginea.service.*;
 import groovy.json.JsonBuilder
 import groovy.transform.TupleConstructor
 import org.springframework.web.bind.annotation.RequestBody

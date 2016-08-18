@@ -1,6 +1,7 @@
 package org.imaginea.domain
 
 import grails.test.mixin.TestFor
+import org.imaginea.application.User
 import spock.lang.Specification
 
 /**
